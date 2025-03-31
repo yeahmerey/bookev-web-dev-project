@@ -1,59 +1,28 @@
-# BookevWebDevProject
+# Project Name: Bookev (Event Booking)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.7.
+Bookev is a web application for booking tickets to events, allowing users to browse events, book tickets, and manage their reservations.
+## Group Information
 
-## Development server
+**Project Members (exactly 3 students from the same practice group):**
 
-To start a local development server, run:
+- Student 1 – Kenesov Daryn |  d_kenesov@kbtu.kz | GitHub : https://github.com/darneo
+- Student 2 – Kustanayev Tamirlan | t_kustanayev@kbtu.kz | GitHub : https://github.com/wakeupkstnv
+- Student 3 – Kaliyev Merey |  me_kaliyev@kbtu.kz | GitHub : https://github.com/yeahmerey
 
-```bash
-ng serve
-```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---------------------------
 
-## Code scaffolding
+## Main functions:
+Event View: Users can explore a wide range of events by category, date, location, and other parameters. This feature allows you to filter events by preference to help users find exactly what they are interested in.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Booking tickets: The platform allows users to book tickets for selected events in just a few clicks. The booking process has been simplified to provide convenience and ease for users.
 
-```bash
-ng generate component component-name
-```
+Details of the event: Each event has a separate page with detailed information, including a description of the event, schedule, prices, and other important information.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+---------------------------
 
-```bash
-ng generate --help
-```
+Practice Teacher : Mukhsimbayev Bobur 
 
-## Building
 
-To build the project run:
 
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+** Angular & Django **
